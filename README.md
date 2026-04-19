@@ -114,8 +114,8 @@
 
 <p align="center">
   <a href="https://github.com/Tocka69"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6AAFE6"/></a>
-  <a href="https://www.linkedin.com/in/amirmohamad-kazemi-6a94a63ba/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5AA6C7"/></a>
-  <a href="mailto:amirmohammad@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6AAFE6"/></a>
+  <a href="www.linkedin.com/in/amirmohamad-kazemi-6a94a63ba"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5AA6C7"/></a>
+  <a href="mailto:am9268510@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6AAFE6"/></a>
 </p>
 
 ---
