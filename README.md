@@ -84,16 +84,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tocka69&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AAFE6&icon_color=6AA6C7&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tocka69&layout=compact&hide_border=true&bg_color=0d1117&title_color=6AAFE6&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amirmkazemi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6AAFE6&icon_color=6AA6C7&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmkazemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=6AAFE6&text_color=c9d1d9" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tocka69&hide_border=true&background=0d1117&ring=5AA6C7&fire=5AA6C7&currStreakLabel=6AAFE6&dates=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirmkazemi&hide_border=true&background=0d1117&ring=5AA6C7&fire=5AA6C7&currStreakLabel=6AAFE6&dates=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tocka69&bg_color=0d1117&line=5AA6C7&point=5AA6C7&color=c9d1d9&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirmkazemi&bg_color=0d1117&line=5AA6C7&point=5AA6C7&color=c9d1d9&hide_border=true" />
 </p>
 
 ---
